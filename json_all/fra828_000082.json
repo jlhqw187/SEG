@@ -1,0 +1,47 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra828_000082.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "身份证",
+      "points": [
+        [
+          1112.43,
+          934.45
+        ],
+        [
+          1259.45,
+          931.94
+        ],
+        [
+          1263.97,
+          934.45
+        ],
+        [
+          1284.54,
+          968.07
+        ],
+        [
+          1282.53,
+          972.59
+        ],
+        [
+          1125.98,
+          973.09
+        ],
+        [
+          1122.97,
+          968.57
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

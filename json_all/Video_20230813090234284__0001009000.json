@@ -1,0 +1,39 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "Video_20230813090234284__0001009000.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "登机牌",
+      "points": [
+        [
+          629.0,
+          456.1
+        ],
+        [
+          637.9,
+          450.2
+        ],
+        [
+          881.78,
+          484.87
+        ],
+        [
+          860.0,
+          630.2
+        ],
+        [
+          607.2,
+          592.8
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

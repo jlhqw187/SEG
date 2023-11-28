@@ -1,0 +1,43 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "Video_20230813094116675__0000129000.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "充电宝",
+      "points": [
+        [
+          1023.46,
+          117.96
+        ],
+        [
+          1288.7,
+          114.51
+        ],
+        [
+          1290.62,
+          152.13
+        ],
+        [
+          1270.66,
+          206.63
+        ],
+        [
+          1015.4,
+          207.78
+        ],
+        [
+          1009.64,
+          171.32
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

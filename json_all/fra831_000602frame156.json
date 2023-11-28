@@ -1,0 +1,47 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra831_000602frame156.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "名片",
+      "points": [
+        [
+          692.14,
+          842.21
+        ],
+        [
+          854.14,
+          841.75
+        ],
+        [
+          856.24,
+          845.95
+        ],
+        [
+          856.94,
+          937.45
+        ],
+        [
+          854.61,
+          942.35
+        ],
+        [
+          697.05,
+          940.72
+        ],
+        [
+          692.14,
+          937.92
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

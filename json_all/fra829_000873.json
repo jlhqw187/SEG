@@ -1,0 +1,47 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra829_000873.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "口红",
+      "points": [
+        [
+          1160.93,
+          145.99
+        ],
+        [
+          1165.75,
+          137.56
+        ],
+        [
+          1303.03,
+          145.99
+        ],
+        [
+          1307.25,
+          152.01
+        ],
+        [
+          1306.04,
+          180.31
+        ],
+        [
+          1300.63,
+          187.54
+        ],
+        [
+          1157.92,
+          176.7
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

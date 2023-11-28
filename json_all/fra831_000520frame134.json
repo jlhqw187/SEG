@@ -1,0 +1,47 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra831_000520frame134.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "名片",
+      "points": [
+        [
+          227.6,
+          115.1
+        ],
+        [
+          225.29,
+          120.46
+        ],
+        [
+          246.6,
+          156.7
+        ],
+        [
+          394.5,
+          154.6
+        ],
+        [
+          396.8,
+          150.7
+        ],
+        [
+          385.94,
+          117.77
+        ],
+        [
+          379.0,
+          114.3
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

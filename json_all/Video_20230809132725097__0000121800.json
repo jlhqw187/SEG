@@ -1,0 +1,47 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "Video_20230809132725097__0000121800.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "身份证",
+      "points": [
+        [
+          645.05,
+          121.64
+        ],
+        [
+          795.55,
+          120.12
+        ],
+        [
+          799.0,
+          123.2
+        ],
+        [
+          796.5,
+          157.3
+        ],
+        [
+          646.57,
+          161.16
+        ],
+        [
+          641.9,
+          156.2
+        ],
+        [
+          640.1,
+          126.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

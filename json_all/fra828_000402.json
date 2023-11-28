@@ -1,0 +1,51 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra828_000402.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "充电宝",
+      "points": [
+        [
+          217.3,
+          898.7
+        ],
+        [
+          512.4,
+          899.9
+        ],
+        [
+          518.4,
+          904.73
+        ],
+        [
+          516.0,
+          943.3
+        ],
+        [
+          504.55,
+          980.6
+        ],
+        [
+          497.93,
+          985.41
+        ],
+        [
+          187.8,
+          989.6
+        ],
+        [
+          186.03,
+          952.3
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

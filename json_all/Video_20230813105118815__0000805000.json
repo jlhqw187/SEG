@@ -1,0 +1,43 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "Video_20230813105118815__0000805000.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "口红",
+      "points": [
+        [
+          1275.1,
+          150.64
+        ],
+        [
+          1250.79,
+          147.6
+        ],
+        [
+          1231.8,
+          148.36
+        ],
+        [
+          1232.56,
+          291.93
+        ],
+        [
+          1251.55,
+          291.93
+        ],
+        [
+          1275.86,
+          290.41
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

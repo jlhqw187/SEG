@@ -1,0 +1,43 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "Video_20230813102655753__0000962500.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "梳子",
+      "points": [
+        [
+          197.7,
+          392.3
+        ],
+        [
+          226.7,
+          394.15
+        ],
+        [
+          233.96,
+          405.04
+        ],
+        [
+          231.24,
+          729.97
+        ],
+        [
+          223.07,
+          737.23
+        ],
+        [
+          200.38,
+          734.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

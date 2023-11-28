@@ -1,0 +1,39 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "Video_20230816225432318__0000592000.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "香烟",
+      "points": [
+        [
+          217.32,
+          481.75
+        ],
+        [
+          216.27,
+          648.13
+        ],
+        [
+          318.42,
+          644.97
+        ],
+        [
+          328.95,
+          639.71
+        ],
+        [
+          325.79,
+          480.69
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

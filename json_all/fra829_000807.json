@@ -1,0 +1,47 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra829_000807.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "护照",
+      "points": [
+        [
+          1251.97,
+          456.11
+        ],
+        [
+          1354.84,
+          442.06
+        ],
+        [
+          1394.0,
+          437.5
+        ],
+        [
+          1397.99,
+          443.57
+        ],
+        [
+          1397.49,
+          612.67
+        ],
+        [
+          1389.46,
+          613.67
+        ],
+        [
+          1283.6,
+          612.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

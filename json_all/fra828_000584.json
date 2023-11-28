@@ -1,0 +1,43 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra828_000584.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "钱包",
+      "points": [
+        [
+          1105.54,
+          610.11
+        ],
+        [
+          1265.1,
+          610.11
+        ],
+        [
+          1277.14,
+          614.92
+        ],
+        [
+          1270.52,
+          950.31
+        ],
+        [
+          1113.36,
+          953.32
+        ],
+        [
+          1102.53,
+          946.09
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

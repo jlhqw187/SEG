@@ -1,0 +1,35 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra831_001165.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "电脑",
+      "points": [
+        [
+          682.06,
+          512.26
+        ],
+        [
+          1347.41,
+          512.26
+        ],
+        [
+          1348.01,
+          947.0
+        ],
+        [
+          682.66,
+          948.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

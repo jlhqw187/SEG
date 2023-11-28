@@ -1,0 +1,43 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra831_001040frame251.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "名片",
+      "points": [
+        [
+          1288.46,
+          469.92
+        ],
+        [
+          1291.65,
+          467.3
+        ],
+        [
+          1334.63,
+          466.72
+        ],
+        [
+          1334.92,
+          636.59
+        ],
+        [
+          1299.49,
+          635.43
+        ],
+        [
+          1289.04,
+          633.98
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}

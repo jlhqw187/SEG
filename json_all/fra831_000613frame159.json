@@ -1,0 +1,51 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "imagePath": "fra831_000613frame159.jpg",
+  "imageData": null,
+  "imageHeight": 1090,
+  "imageWidth": 1500,
+  "shapes": [
+    {
+      "label": "名片",
+      "points": [
+        [
+          247.0,
+          497.84
+        ],
+        [
+          249.8,
+          493.64
+        ],
+        [
+          340.37,
+          493.17
+        ],
+        [
+          344.57,
+          496.91
+        ],
+        [
+          345.27,
+          653.54
+        ],
+        [
+          338.51,
+          657.97
+        ],
+        [
+          252.14,
+          658.2
+        ],
+        [
+          247.24,
+          654.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ]
+}
